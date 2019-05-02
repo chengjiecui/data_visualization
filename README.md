@@ -1,6 +1,6 @@
 # Data visualization
 
-Pakages used:
+Packages used:
 - Matplotlib
 - Seaborn
 - Plotly
