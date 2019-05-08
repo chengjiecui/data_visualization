@@ -3,5 +3,6 @@
 Packages used:
 - Matplotlib
 - Seaborn
+- Pandas
 - Plotly
 
