@@ -1,10 +1,11 @@
 # Data visualization
 
-Somethimes ipynb files can fail to render on gitbub, in this case go to [nbviewer](https://nbviewer.jupyter.org/) and pase the file URL in the window to view the results. 
+In this project, I created several demos using popular plotting tools.
 
-Packages used:
-- Matplotlib
-- Seaborn
-- Pandas
-- Plotly
+## Demos:
+- [Matplotlib](Matplotlib.ipynb)
+- [Pandas](Pandas.ipynb)
+- [Seaborn](Seaborn.ipynb)
+- [Plotly](Plotly.ipynb)
 
+Somethimes ipynb files may fail to render on gitbub, in this case go to [nbviewer](https://nbviewer.jupyter.org/) and pase the file URL in the window to view the results. 
